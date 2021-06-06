@@ -10,7 +10,6 @@
 namespace Gucera
 {
 
-
     public partial class Student
     {
 
